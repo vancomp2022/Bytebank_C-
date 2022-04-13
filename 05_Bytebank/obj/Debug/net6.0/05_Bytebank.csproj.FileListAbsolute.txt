@@ -1,0 +1,15 @@
+C:\Users\Dell\source\repos\01_ByteBank\05_Bytebank\bin\Debug\net6.0\05_Bytebank.exe
+C:\Users\Dell\source\repos\01_ByteBank\05_Bytebank\bin\Debug\net6.0\05_Bytebank.deps.json
+C:\Users\Dell\source\repos\01_ByteBank\05_Bytebank\bin\Debug\net6.0\05_Bytebank.runtimeconfig.json
+C:\Users\Dell\source\repos\01_ByteBank\05_Bytebank\bin\Debug\net6.0\05_Bytebank.dll
+C:\Users\Dell\source\repos\01_ByteBank\05_Bytebank\bin\Debug\net6.0\05_Bytebank.pdb
+C:\Users\Dell\source\repos\01_ByteBank\05_Bytebank\obj\Debug\net6.0\05_Bytebank.csproj.AssemblyReference.cache
+C:\Users\Dell\source\repos\01_ByteBank\05_Bytebank\obj\Debug\net6.0\05_Bytebank.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dell\source\repos\01_ByteBank\05_Bytebank\obj\Debug\net6.0\05_Bytebank.AssemblyInfoInputs.cache
+C:\Users\Dell\source\repos\01_ByteBank\05_Bytebank\obj\Debug\net6.0\05_Bytebank.AssemblyInfo.cs
+C:\Users\Dell\source\repos\01_ByteBank\05_Bytebank\obj\Debug\net6.0\05_Bytebank.csproj.CoreCompileInputs.cache
+C:\Users\Dell\source\repos\01_ByteBank\05_Bytebank\obj\Debug\net6.0\05_Bytebank.dll
+C:\Users\Dell\source\repos\01_ByteBank\05_Bytebank\obj\Debug\net6.0\refint\05_Bytebank.dll
+C:\Users\Dell\source\repos\01_ByteBank\05_Bytebank\obj\Debug\net6.0\05_Bytebank.pdb
+C:\Users\Dell\source\repos\01_ByteBank\05_Bytebank\obj\Debug\net6.0\05_Bytebank.genruntimeconfig.cache
+C:\Users\Dell\source\repos\01_ByteBank\05_Bytebank\obj\Debug\net6.0\ref\05_Bytebank.dll

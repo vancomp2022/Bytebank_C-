@@ -1,0 +1,5 @@
+C:\Users\Dell\source\repos\01_ByteBank\07_ByteBank\obj\Debug\net6.0\07_ByteBank.csproj.AssemblyReference.cache
+C:\Users\Dell\source\repos\01_ByteBank\07_ByteBank\obj\Debug\net6.0\07_ByteBank.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dell\source\repos\01_ByteBank\07_ByteBank\obj\Debug\net6.0\07_ByteBank.AssemblyInfoInputs.cache
+C:\Users\Dell\source\repos\01_ByteBank\07_ByteBank\obj\Debug\net6.0\07_ByteBank.AssemblyInfo.cs
+C:\Users\Dell\source\repos\01_ByteBank\07_ByteBank\obj\Debug\net6.0\07_ByteBank.csproj.CoreCompileInputs.cache
